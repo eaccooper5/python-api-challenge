@@ -191,10 +191,10 @@ For each city in the hotel_df DataFrame, use the Geoapify API to find the first 
 Add the hotel name and the country as additional information in the hover message for each city in the map. (10 points)
 
 ## Collaboration
-This project was completed by Erin Cooper with advice from Rythm Ahir about api requests and data in WeatherPy and help with linear regression functions.
+This project was completed by Erin Cooper with advice from Rythm Ahir about api requests and data in WeatherPy and help with linear regression functions. Additional help from AskBCS for assistance with API calls for the hotel_df section.
 
 ## Challenges
-In WeatherPy many of the linear regression plots would not display the equation, although the first plot did. I attempted to circumvent this issue by experiementing with different variable names to call the line equation but none of those worked, so I instead added code to print the line equation alongside each plot's -rvalue.
+In WeatherPy many of the linear regression plots would not display the equation, although the first plot did. I attempted to circumvent this issue by experiementing with different variable names to call the line equation but none of those worked, so I instead added code to print the line equation alongside each plot's -rvalue. Additional challenges calling the geoapify api.
 
 ## Contact
 If there are any questions or concerns, I can be reached at:
